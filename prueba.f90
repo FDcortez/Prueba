@@ -1,0 +1,6 @@
+PROGRAM holi
+IMPLICIT NONE
+
+WRITE(*,*)"Holis..."
+
+END PROGRAM holi
